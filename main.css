@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.single_record{
+	
+	page-break-inside:auto;
+	page-break-inside:avoid;
+	page-break-after:auto;
+	
+}
